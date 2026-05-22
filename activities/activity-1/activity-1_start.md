@@ -54,8 +54,8 @@ From your CloudShell terminal (having recently run `./scripts/01_deploy.sh`), wr
 
 | Output Key         | Your Value |
 |--------------------|------------|
-| `StateMachineArn`  |            |
-| `DashboardName`    |            |
+| `StateMachineArn`  | arn:aws:states:us-east-1:975049983446:stateMachine:AI6-Unit5W-ScaleOrFail-state-machine            |
+| `DashboardName`    | AI6-Unit5W-ScaleOrFail-dashboard            |
 
 💡 **Tip:** You can retrieve stack outputs again at any time by running from your terminal:
 
